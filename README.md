@@ -17,4 +17,4 @@ If you appreciate the impact of my work and want to help extend its reach, consi
 📫 **How to reach me**
 Feel free to contact me if you have any questions or just want to chat about coding!
 
-[GitHub](https://github.com/Khosiyat) | [LinkedIn](https://www.linkedin.com/in/khosiyat-sabir-ova-01603377/)
+[Leetcode](https://leetcode.com/u/Khosiyat/) | [GitHub](https://github.com/Khosiyat) | [LinkedIn](https://www.linkedin.com/in/khosiyat-sabir-ova-01603377/)
