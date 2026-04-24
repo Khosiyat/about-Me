@@ -1,18 +1,44 @@
-Hi there, I'm Khosiyat 👋
-I'm a software developer with expertise in Python, TypeScript, and JavaScript. I have diverse experience working with various technologies and services. I enjoy creating new things and am constantly on the lookout for new technologies to learn and integrate into my projects. 💻
+# Hi, I’m Khosiyat 👋
 
-I also volunteer for Pink Programming, a non-profit organization that aims to encourage and inspire women to learn programming. 🌸
+💻 Junior Python Developer based in Sweden 🇸🇪  
+🎓 Background in Linguistics (UHR-recognized degrees) + Programming  
 
-🚀 **Skills**
-- **Programming Languages:** Python, TypeScript, JavaScript 📚
-- **Front-end:** React, HTML, CSS, Bootstrap 5 🎨
-- **Back-end:** Python/Django 🖥️
-- **Version Control:** GitHub, GitHub Actions 🔄
-- **Cloud Services:** AWS (Route 53, EC2) ☁️
-- **Infrastructure as Code** 🏗️
+---
 
-💖 **Support**
-If you appreciate the impact of my work and want to help extend its reach, consider supporting me through GitHub Sponsors. Together, we can drive innovation in the open-source community and enable more meaningful volunteer work. Your partnership is invaluable in this journey. 🌟
+## 🚀 About Me
+
+I have experience in Python development, web applications, and data analysis.  
+I have worked on real-world projects, including a collaboration with Lund University on data visualization systems.
+
+I am currently improving my Swedish and looking for an internship or junior role in IT in Sweden.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, JavaScript, TypeScript  
+- **Web:** Django, Flask, React  
+- **Data:** Pandas, SQL  
+- **Tools:** Git, GitHub, Agile (Scrum)  
+
+---
+
+## 📊 Experience Highlights
+
+- 💡 Developed web and data applications using Python and Django  
+- 🤝 Collaborated in Agile team with Lund University researchers  
+- 👩‍💻 Volunteer mentor at Pink Programming (supporting beginners in coding)  
+- 🧠 Solved 1000+ algorithm problems (LeetCode)
+
+---
+
+## 🎯 Current Goal
+
+I am looking for:
+- Internship (praktik) in IT  
+- Junior Python / Backend / Data roles  
+
+---
 
 📫 **How to reach me**
 Feel free to contact me if you have any questions or just want to chat about coding!
