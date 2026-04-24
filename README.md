@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 I have hands-on experience in Python development, web applications, and data analysis.  
-I have worked on real-world projects, including a collaboration with Lund University on a data visualization system.
+I have worked on real-world projects, …including a collaboration with Lund University on a data visualization system (see pinned repositories).
 
 I am currently improving my Swedish and actively looking for an internship or junior IT role in Sweden, where I can contribute and continue developing my skills.
 
