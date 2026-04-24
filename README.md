@@ -8,36 +8,38 @@
 
 ## 🚀 About Me
 
-I have experience in Python development, web applications, and data analysis.  
-I have worked on real-world projects, including a collaboration with Lund University on data visualization systems.
+I have hands-on experience in Python development, web applications, and data analysis.  
+I have worked on real-world projects, including a collaboration with Lund University on a data visualization system.
 
-I am currently improving my Swedish and looking for an internship or junior role in IT in Sweden.
+I am currently improving my Swedish and actively looking for an internship or junior IT role in Sweden, where I can contribute and continue developing my skills.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, TypeScript  
-- **Web:** Django, Flask, React  
-- **Data:** Pandas, SQL  
-- **Tools:** Git, GitHub, Agile (Scrum)  
+Languages: Python, JavaScript, TypeScript  
+Web: Django, Flask, React  
+Data: Pandas, SQL  
+Tools: Git, GitHub, Agile (Scrum)
 
 ---
 
 ## 📊 Experience Highlights
 
-- 💡 Developed web and data applications using Python and Django  
-- 🤝 Collaborated in Agile team with Lund University researchers  
-- 👩‍💻 Volunteer mentor at Pink Programming (supporting beginners in coding)  
-- 🧠 Solved 1000+ algorithm problems (LeetCode)
+💡 Built web and data applications using Python and Django  
+🤝 Collaborated in an Agile team with Lund University researchers  
+👩‍💻 Volunteer mentor at Pink Programming (supporting beginners in coding)  
+🧠 Solved 1000+ algorithm problems (LeetCode)
 
 ---
 
 ## 🎯 Current Goal
 
 I am looking for:
-- Internship (praktik) in IT  
-- Junior Python / Backend / Data roles  
+• Internship (praktik) in IT  
+• Junior Python / Backend / Data roles  
+
+I am especially interested in roles where I can combine programming, problem-solving, and continuous learning.
 
 ---
 
