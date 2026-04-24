@@ -1,7 +1,8 @@
 # Hi, I’m Khosiyat 👋
 
-💻 Junior Python Developer based in Sweden 🇸🇪  
-🎓 Background in Linguistics (UHR-recognized degrees) + Programming  
+💻 Junior Python Developer | Data & Web  
+📍 Based in Sweden 🇸🇪 | Open to Internship / Junior Roles  
+🎓 Background in Linguistics + Programming (UHR-recognized)
 
 ---
 
